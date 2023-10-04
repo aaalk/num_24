@@ -1,3 +1,9 @@
+
+#   SOCRATIVE_24
+
+# https://b.socrative.com/student/#quiz
+
+
 # f = open('1.txt')
 # s = f.readline() + '***'
 # # Определите количество AF-подстрок длиной от 7 до 10 символов.
